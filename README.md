@@ -7,4 +7,6 @@ Use of private Cocoa APIs to create a blurred window background (like Vista and 
 
 Based on code at http://bit.ly/1aDE4g
 
+<img src="https://www.dropbox.com/s/gwstxh7t8yfz0tb/Photo%20Jul%2031%2C%2011%2059%2014%20AM.png">
+
 More info here soon...
