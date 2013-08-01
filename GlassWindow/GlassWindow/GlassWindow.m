@@ -20,8 +20,6 @@
                                      defer:flag]) != nil) {
         
         [self setOpaque:NO];
-        [self setHasShadow:YES];
-        [self setContentBorderThickness:10 forEdge:NSMinYEdge];
         [self setTitle:@"GLASS"];
         [self setBackgroundColor:[NSColor colorWithCalibratedWhite:1 alpha:0.5]];
         [self enableBlurForWindow:self];
